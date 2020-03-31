@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Card component renders a card as expected 1`] = `
+exports[`Card Component renders UI as expected 1`] = `
 <div
   className="Card"
 >
@@ -15,19 +15,5 @@ exports[`Card component renders a card as expected 1`] = `
   <p>
     content
   </p>
-</div>
-`;
-
-exports[`renders the UI as expected 1`] = `
-<div
-  className="Card"
->
-  <button
-    type="button"
-  >
-    delete
-  </button>
-  <h3 />
-  <p />
 </div>
 `;
