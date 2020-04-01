@@ -45,6 +45,7 @@ class App extends Component {
     });
   };
 
+
   handleAddRandomCard = listId => {
     const { lists, allCards } = this.state.store;
     const randomCard = newRandomCard();
